@@ -10,7 +10,7 @@ Link to download trained model weights: [Dropbox Link](https://www.dropbox.com/s
 ---
 Based on MIT-USAF AIA RF Challenge for Single-Channel Source Separation
 
-[Click here for the Single-Channel RF Challenge Github Repository](github.com/rfchallenge/single-channel)
+[Click here for the Single-Channel RF Challenge Github Repository](https://github.com/RFChallenge/rfchallenge_singlechannel_starter)
 
 [Click here for details on the challenge setup](https://rfchallenge.mit.edu/wp-content/uploads/2021/08/Challenge1_pdf_detailed_description.pdf)
 
